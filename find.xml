@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '~/.gradle/caches/transforms-2/files-2.1/d20eeba0f9e78747f134a17c0eae9d69/jetified-antmonitorlib/jars/classes.jar!/edu/uci/calit2/antmonitor/lib/vpn/VpnController.class [Gradle: :antmonitorlib:@aar]'" />
+    <option name="defaultScopeName" value="File '~/.gradle/caches/transforms-2/files-2.1/d20eeba0f9e78747f134a17c0eae9d69/jetified-antmonitorlib/jars/classes.jar!/edu/uci/calit2/antmonitor/lib/vpn/VpnController.class [Gradle: :antmonitorlib:@aar]'" />
+    <option name="SEARCH_SCOPE" value="File '~/.gradle/caches/transforms-2/files-2.1/d20eeba0f9e78747f134a17c0eae9d69/jetified-antmonitorlib/jars/classes.jar!/edu/uci/calit2/antmonitor/lib/vpn/VpnController.class [Gradle: :antmonitorlib:@aar]'" />
   </component>
 </application>
